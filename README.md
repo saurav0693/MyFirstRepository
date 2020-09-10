@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-I am Saurav. I work as a Data Scientist at WalmartLabs India. - 14/6/2019
+I am Saurav. I work as a Data Scientist at Walmart Global Tech India. I joined Walmart on 8th of June 2020.
